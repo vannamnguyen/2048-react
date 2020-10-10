@@ -8,7 +8,7 @@ This is the [react](https://reactjs.org/) port of the 2048 game designed by Gabr
 
 ## Demo
 
-[Demo](https://jinhucheung.github.io/2048-react/)
+[Demo](https://vannamnguyen.github.io/2048-react/)
 
 ## Installation
 
